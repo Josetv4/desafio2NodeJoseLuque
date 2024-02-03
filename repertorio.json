@@ -1,0 +1,44 @@
+[
+  {
+    "id": 321,
+    "titulo": "Unravel",
+    "artista": "TK from Ling Tosite Sigure",
+    "anime": "Tokyo Ghoul",
+    "tono": "Gm"
+  },
+  {
+    "id": 876,
+    "titulo": "My Soul, Your Beats!",
+    "artista": "Lia",
+    "anime": "Angel Beats!",
+    "tono": "Dm"
+  },
+  {
+    "id": 543,
+    "titulo": "Again",
+    "artista": "Yui",
+    "anime": "Fullmetal Alchemist: Brotherhood",
+    "tono": "Fm"
+  },
+  {
+    "id": 210,
+    "titulo": "Cruel Angel's Thesis",
+    "artista": "Yoko Takahashi",
+    "anime": "Neon Genesis Evangelion",
+    "tono": "Bm"
+  },
+  {
+    "id": 111,
+    "titulo": "Silhouette",
+    "artista": "KANA-BOON",
+    "anime": "Naruto Shippuden",
+    "tono": "Em"
+  },
+  {
+    "id": 999,
+    "titulo": "The Rising of the Shield Hero",
+    "artista": "MADKID",
+    "anime": "Tate no Yuusha no Nariagari",
+    "tono": "F#m"
+  }
+]
